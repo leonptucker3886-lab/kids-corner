@@ -30,7 +30,7 @@ One game or story per folder. Only touch your own team's folder.
 1. **Mobile-first.** Built for a phone in portrait. Big tap targets. No keyboard needed.
 2. **Original art only.** No stock images, no copied characters, no downloaded music.
 3. **Kid-safe.** No violence, scare content, ads, logins, chat, or data collection.
-4. **No gambling elements.** (Casino Squad especially) No chips, bets, slots, or loot boxes.
+4. **No gambling elements.** (Team 3 Puzzle/Logic especially) No chips, bets, slots, or loot boxes.
 5. **Works offline after load.** No external scripts or CDNs.
 6. **Fast.** Loads in under 3 seconds on a phone.
 

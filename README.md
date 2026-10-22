@@ -5,7 +5,7 @@ One shared repo for all 4 teams. Paperwork watches every push and reviews it.
 ## Folders
 - team1/ - Team 1 (led by Pip)
 - team2-arcadeline/ - 5 quick tap/swipe arcade games
-- team3-casino-squad/ - 5 puzzle & logic games (NO gambling elements)
+- team3-puzzle-logic/ - 5 puzzle & logic games (NO gambling elements)
 - team4-learning/ - 5 learning games + 3-5 illustrated stories
 
 ## Rules

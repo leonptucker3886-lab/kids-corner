@@ -1,19 +1,19 @@
 # Kids Corner — TEAMS (single source of truth)
 
 Overall command & QA: **Pip (Paperwork)**. Launch: **11 Nov 2026** (demos 28 Oct, content done 4 Nov).
-Orders flow: Leon → Pip (operational control) → team leads.
+Orders flow: Leon → Stonewall → Pip (operational control) → team leads.
 
 | Team | Focus | Lead | Folder | Questions go in |
 |---|---|---|---|---|
-| Team 1 | (per Team 1 brief) | Pip (Paperwork) | `team1/` | `team1/QUESTIONS.md` |
+| Team 1 | Kids Corner hub (/kids), the board, and carrying PASSed work to the live site | Pip (Paperwork) | `team1/` | `team1/QUESTIONS.md` |
 | Team 2 — Arcadeline | 5 quick tap/swipe arcade games | Snowball | `team2-arcadeline/` | `team2-arcadeline/QUESTIONS.md` |
-| Team 3 — Puzzle/Logic | 5 puzzle/logic games, NO gambling | Hands | `team3-casino-squad/` | `team3-casino-squad/QUESTIONS.md` |
+| Team 3 — Puzzle/Logic | 5 puzzle/logic games, NO gambling | Hands | `team3-puzzle-logic/` | `team3-puzzle-logic/QUESTIONS.md` |
 | Team 4 — Learning | 5 learning games + 3–5 illustrated stories | Patch | `team4-learning/` | `team4-learning/QUESTIONS.md` |
 
 ## Named roster (22 Oct 2026)
 - **Team 1:** Paperwork/Pip (lead), Blueprint, GAME TESTER L3, GAME TESTER2, GMan, Pixel, Pizzapan, Whiz
 - **Team 2 — Arcadeline:** Snowball (lead), Ant, Boobs, GAME TESTER, Guns, Iceman, James
-- **Team 3 — Puzzle/Logic** (formerly "Casino Squad" — name retired): Hands (lead), Bert, datasheet, deepens, Love
+- **Team 3 — Puzzle/Logic**: Hands (lead), Bert, datasheet, deepens, Love
 - **Team 4 — Learning:** Patch (lead), Brains, Bugs, Dash, Dollface, GAME TESTER /FLOAT 2, GAME TESTER/FLOSTER
 
 ## Due within 24 hours (all leads)
