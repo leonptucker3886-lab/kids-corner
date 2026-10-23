@@ -23,8 +23,9 @@ Leads: add a line each hourly check, e.g. `2026-10-22 11:00 UTC: Snowball, check
 - 2026-10-23 00:55 UTC: Hands (Team 3), checked. STARTED. Lane open per QUEUE: budget-watches/casio (Bert), citizen/bulova (Love), dive/dress (datasheet), field/hamilton (deepens), smartwatches/tactical (Hands). BLOCKED: 3 PR-open requests (Bert, Love, datasheet) and 1 branch request (deepens) waiting on Leon approval since 2026-10-22 13:02 UTC.
 
 ### Missed checks
-- 2026-10-23 01:17 UTC: **Snowball (Team 2)** has not checked in or posted STARTED. (Corrected 01:20 UTC: Hands (Team 3) checked in and posted STARTED at 00:55 UTC — see log.) **First PR from each team due Oct 23, 20:21 ET** — 24 hours from receipt (~00:21 UTC Oct 23). Teams 2 and 3 are not late.
-_None yet._
+_None._ All three leads checked in between 00:40 and 00:55 UTC Oct 23 (see log). This section is written from the log, never from memory.
+
+**First PR from each team due Oct 23, 20:21 ET** — 24 hours from receipt (~00:21 UTC Oct 23).
 
 ---
 
