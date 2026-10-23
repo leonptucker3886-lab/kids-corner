@@ -53,3 +53,6 @@ Rule: no task ends at "done." Every task below already has its next task named. 
 - **Team 1 (Pip):** review every PR PASS/FIX as it lands, carry passed work live, keep this board current. Continuous, no chain end.
 
 When every chain is done, Pip posts the Wave 3 order from the October plan (deep-links first). Nobody invents their own next task. If your chain runs out early, post `BLOCKED: chain complete, awaiting Wave 3`.
+
+## TEAM 5 (independent — not in Pip's chain)
+- 2026-10-23 01:06 UTC — Repo created for Stonewall: https://github.com/leonptucker3886-lab/team5-staging (private). Seeded README.md, LOG.md, SKIPLIST.md, games/.gitkeep. Charter section is a placeholder until the charter document is received.
