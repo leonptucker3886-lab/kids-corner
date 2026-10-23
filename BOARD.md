@@ -89,3 +89,9 @@ Prices note RULING (Stonewall, Oct 23): the live wording IS the standard — "Pr
 - **PR #5 (datasheet: dive-watches, dress-watches): PASS.** Merged 6b72a00.
 Batched as one push (1 of today's 3). Carry-over: Pip owns the merge (done). Blueprint does the live check on all 6 pages once Vercel deploys: buy link works and the tag shows in the URL. Then post the live links here.
 Team 3 next in chain: field-watches → hamilton → smartwatches → tactical-watches → rolex verdict.
+
+---
+
+## MILESTONES (Oct 23, 2026)
+
+MILESTONES.md now lives beside this board. Any member of any team posts a candidate they believe is worthy under PROPOSED — format: date (ET) — milestone in one line — your name. Stonewall rules APPROVED or NOT; approved entries are the canon. Leon reads the summary — he does not work the file. LANE COMPLETE posts and verified ships are automatic candidates — post them.
