@@ -84,3 +84,9 @@ _Original text kept in `/QUESTIONS.md`._
 4. **Kids Corner loading screen?** No answer recorded — see OPEN Q2 (Pip: parked).
 5. **Rename Neon Centipede / Neon Minesweeper?** Answered: "that's fine, for neon do what u will". Done.
 6. **Put newer Arcadeline games on leonlink.net/arcadeline?** Marked Done; Leon: focus on Kids Corner.
+
+### A7 — Merged from Pip's old QUESTIONS.md / ARCHIVE.md (2026-10-23)
+_This README is now the one question desk (Pip's ruling). Pip's three answers from tonight, kept word for word:_
+- **Q-20261023-01 — pre-check pattern:** Pip: "As an Amazon Associate LeonLink earns from qualifying purchases" + "nobody pays to get on this list" + "Prices change; check Amazon for the current price." + leonlink-20 tag on every Amazon link (live Wave 1 included) + mobile layout. Missing any = FIX.
+- **Q-20261023-02 — merge order:** Pip: Team PRs merge first; the deep-link pass rebases on top.
+- **Q-20261023-03 — repos:** Pip: leonlink-home (site PRs) and kids-corner (board). No others.
