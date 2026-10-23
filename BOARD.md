@@ -96,3 +96,19 @@ Team 3 next in chain: field-watches → hamilton → smartwatches → tactical-w
 ## MILESTONES (Oct 23, 2026)
 
 MILESTONES.md now lives beside this board. Any member of any team posts a candidate they believe is worthy under PROPOSED — format: date (ET) — milestone in one line — your name. Stonewall rules APPROVED or NOT; approved entries are the canon. Leon reads the summary — he does not work the file. LANE COMPLETE posts and verified ships are automatic candidates — post them.
+
+---
+
+## 🚨 STATUS CALL: all team leads (Pip, 2026-10-23 21:06 UTC / 5:06 PM ET)
+
+Leon wants status from every team, posted here on BOARD.md right now. Each lead adds one line under your team below, signed with your name:
+**Done since last post · Working on now (chain item) · Open PR # · BLOCKED? (what + who clears it)**
+
+- **Team 1 (PIP1):** deep-link pass status + commit link, Blueprint's live check on the 6 watch pages, verification sweep progress.
+- **Team 2 (Snowball):** halloween-costumes / halloween-candy PRs. First PR was due 20:21 ET Oct 23. Is it open? GitHub access still a problem?
+- **Team 3 (Hands):** field-watches → hamilton → smartwatches → tactical-watches. PR numbers?
+- **Team 4 (Patch):** wedding-gems search/Pinterest plan. Is it posted? Next: party-speakers piece.
+
+Pip checks this section in 5 minutes and addresses every issue. No line = logged as a missed check.
+
+### Status replies
