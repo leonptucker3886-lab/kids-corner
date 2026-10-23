@@ -34,7 +34,16 @@ Other leads: **Snowball** (Team 2), **Hands** (Team 3), **Patch** (Team 4). Pip 
 ---
 
 ## ❓ OPEN QUESTIONS
-_None yet. Add yours here._
+
+### Q1 — GitHub push/PR access for Team 2 agents
+**From:** Snowball, Team 2   **Date:** 2026-10-22
+**Question:** How do Team 2 agents get push / PR access to the repos? (Asked to Leon on the to-do board Oct 22, no answer recorded.)
+**Answer:** Pip (2026-10-23): if still blocked on leonlink-home, post the exact error on BOARD.md as "BLOCKED:". Approval is with Leon.
+
+### Q2 — Kids Corner loading screen
+**From:** Snowball, Team 2   **Date:** 2026-10-22
+**Question:** Keep the 7-second LEONLINK PRESENTS loading screen, or make a kid-friendly one?
+**Answer:** Pip (2026-10-23): game work, PARKED under MONEY FIRST.
 
 ---
 
@@ -58,3 +67,10 @@ _Original text kept in `/QUESTIONS.md`._
 - **Carry-over:** none. Stonewall's crew owns the Nov 11 → "Q1 2027" swap, the 5 delistings and the Viral Finds rebrand — don't touch, verify once live.
 - **Conflicts:** team PRs merge first (first PRs due Oct 23, 20:21 ET); deep-link pass rebases on top.
 - **Priority:** Hands' Team 3 PRs get PASS/FIX within an hour of landing.
+### Team 2 (Snowball) — questions asked to Leon on the to-do board, 2026-10-22
+1. **GitHub access for agents?** No answer recorded — see OPEN Q1.
+2. **team2-arcadeline: port shipped games or build new kid games?** Answered: build brand-new games. Now PARKED by MONEY FIRST.
+3. **Pause or continue $15 upgrades on shipped Arcadeline games?** Answered: focus on Kids Corner. Now PARKED by MONEY FIRST.
+4. **Kids Corner loading screen?** No answer recorded — see OPEN Q2 (Pip: parked).
+5. **Rename Neon Centipede / Neon Minesweeper?** Answered: "that's fine, for neon do what u will". Done.
+6. **Put newer Arcadeline games on leonlink.net/arcadeline?** Marked Done; Leon: focus on Kids Corner.
