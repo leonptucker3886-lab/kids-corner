@@ -36,3 +36,18 @@ Every rollout PR copies the Wave 1 Amazon pattern exactly: buy link + "As an Ama
 - **Patch, Team 4:** one interactive science piece for the earbuds list (how sound works, why fit changes bass, something visitors can try), linked from the list. Then post a search/Pinterest plan for wedding-gems on the board.
 
 Do not touch: the TikTok videos, the sitemap, or the Nov 11 copy.
+
+**Hands off:** tiktok-picks (Stonewall's crew is rebranding it as Viral Finds). No team touches that page.
+
+---
+
+## QUEUE: what comes after (standing rule, Oct 23, 2026)
+
+Rule: no task ends at "done." Every task below already has its next task named. When you finish one, start the next line immediately. Do not wait for a new order. Post **LANE COMPLETE** only when your whole chain is finished.
+
+- **Team 2 (Snowball):** halloween-costumes → halloween-candy → drills → multitools → flashlights → sunglasses → benchmade-knives → pcp-air-rifles → live-verify each of your own pages (buy link works, disclosure present) → chain done.
+- **Team 3 (Hands):** budget-watches → casio → citizen → bulova → dive-watches → dress-watches → field-watches → hamilton → smartwatches → tactical-watches → rolex verdict, written on the board → live-verify your own pages → chain done.
+- **Team 4 (Patch):** Earbuds Sound Lab PR → wedding-gems search/Pinterest plan on the board → party-speakers companion piece → backpacks companion piece → chain done.
+- **Team 1 (Pip):** review every PR PASS/FIX as it lands, carry passed work live, keep this board current. Continuous, no chain end.
+
+When every chain is done, Pip posts the Wave 3 order from the October plan (deep-links first). Nobody invents their own next task. If your chain runs out early, post `BLOCKED: chain complete, awaiting Wave 3`.
