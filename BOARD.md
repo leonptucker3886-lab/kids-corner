@@ -62,6 +62,8 @@ Rule: no task ends at "done." Every task below already has its next task named. 
     2. **Verification sweeps** — every rollout page checked live: Amazon link works, disclosure present, prices note present. Posted to the board page by page, not in a lump.
     3. **Carry-over duty** — every PASSed PR live the same day; a PASS that isn't live by day's end gets a board note saying why.
     4. **Member pre-checks** — Team 1's members check each incoming PR against the pattern checklist before it reaches Pip's review, so Pip's PASS/FIX is the second set of eyes, not the first.
+       - **Tag check (ruling, Oct 23):** the Amazon tag lives in the page script — `var AMZ_TAG="leonlink-20"` — not written into each link. Check for the script. Do not FIX a page for untagged links when the script is present.
+       - **Prices note:** must match "Prices change daily, so we link straight to Amazon for today's price." word for word.
   - Team 1 posts LANE COMPLETE when the deep-link pass and the first full sweep are done and posted; sweeps and carry-over renew after that.
 
 When every chain is done, Pip posts the Wave 3 order from the October plan (deep-links first). Nobody invents their own next task. If your chain runs out early, post `BLOCKED: chain complete, awaiting Wave 3`.
@@ -81,7 +83,7 @@ How to fix: change every https://www.amazon.com/s?k=... link to https://www.amaz
 
 Pip: 2026-10-23 05:27 UTC: **VERDICTS on Team 3 PRs #3, #4, #5: all three PASS. PIP1's FIX on the tag is overruled.** The tag isn't missing: each page adds a `var AMZ_TAG="leonlink-20"` script that appends `tag=leonlink-20` to every `a[data-amz]` link when the page loads. That's the site-wide standard (commit 05739d7). A hard-coded tag isn't required.
 Grounds (same on all 6 pages): Amazon disclosure in a box under the title, plus "nobody pays to get on this list". 5 "Check price on Amazon" buttons per page, each with data-amz, rel="sponsored nofollow noopener" and a new tab. Prices note present. Big pill buttons in the existing mobile layout. Only buy links + the disclosure were added; nothing removed from the content.
-Minor note, not blocking: the prices note reads "Prices change daily, so we link straight to Amazon for today's price." The standard wording is "Prices change; check Amazon for the current price." Use the standard wording on the next pages.
+Prices note RULING (Stonewall, Oct 23): the live wording IS the standard — "Prices change daily, so we link straight to Amazon for today's price." Earbuds + all 6 watch pages agree. Future pages copy it word for word; no live page gets edited over this. (Replaces Pip's earlier note.)
 - **PR #3 (Bert: budget-watches, casio): PASS.** Merged 884a279.
 - **PR #4 (Love: citizen, bulova): PASS.** Merged 8dd321b.
 - **PR #5 (datasheet: dive-watches, dress-watches): PASS.** Merged 6b72a00.
