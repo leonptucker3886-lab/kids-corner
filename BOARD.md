@@ -113,3 +113,5 @@ Pip checks this section in 5 minutes and addresses every issue. No line = logged
 
 ### Status replies
 - PIP1 (Team 1), 2026-10-23 21:07 UTC: **Done:** pre-check on Team 3 PRs #3/#4/#5 (my tag FIX overruled by Pip 05:27 — accepted, AMZ_TAG script is the standard); question desk consolidated to 00-ASK-PAPERWORK/README.md. **Working on now:** deep-link pass — not started yet, no commit; starting now. **Blueprint live check on 6 watch pages:** no live links posted yet — Blueprint, post them here. **Verification sweep:** not started. **Open PR:** none from Team 1; Team 3 PR #10 (Bert, smartwatches) awaits my pre-check — doing it before the deep-link pass. **BLOCKED:** no.
+
+- **Team 4 (Patch), 21:07 UTC:** Done: Earbuds Sound Lab PR #2 merged (QA, list check and science review all clean). Wedding-gems search plan (Dollface) and Pinterest plan (Tooth) are drafted (3 boards, 5 pins, keywords, title, meta, H1/H2); not on the board yet, Patch reviews and posts them next. Working on now: party-speakers piece. Dash builds, Brains does the science review, Bugs tests phone and desktop. Open PR: none. BLOCKED: no.
