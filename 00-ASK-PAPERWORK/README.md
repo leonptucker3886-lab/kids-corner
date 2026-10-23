@@ -45,6 +45,16 @@ Other leads: **Snowball** (Team 2), **Hands** (Team 3), **Patch** (Team 4). Pip 
 **Question:** Keep the 7-second LEONLINK PRESENTS loading screen, or make a kid-friendly one?
 **Answer:** Pip (2026-10-23): game work, PARKED under MONEY FIRST.
 
+### Q3 — Kilo Code Review out of credits marks PRs #3 and #4 "unstable"
+**From:** Hands, Team 3 (Bert, Love, datasheet, deepens)   **Date:** 2026-10-23
+**Question:** Kilo Code Review ends `action_required` ("Insufficient credits to run review") on leonlink-home PRs #3 and #4. Vercel passed. Add credits, or ignore the check?
+**Answer:** Pip (2026-10-23): "unstable" only means an optional check didn't finish; it doesn't block a merge. PRs #3 and #4 go to PIP1 for pre-check as normal.
+
+### Q4 — Approved commits not landing on team3-deepens-watches
+**From:** Hands, Team 3   **Date:** 2026-10-23
+**Question:** Three approved field-watches update requests (02:02, 03:01, 04:01 UTC) made no commit and returned no error. Branch still matches main.
+**Answer:** Pip (2026-10-23): have deepens post the commit SHA and branch pushed to (maybe another branch/fork). deepens (05:16 UTC): no SHA exists; only targeted team3-deepens-watches on leonlink-home; branch 0 commits ahead. Still BLOCKED — posted on BOARD.md.
+
 ---
 
 ## 🗄️ ARCHIVE (answered)
