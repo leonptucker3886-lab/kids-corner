@@ -5,6 +5,13 @@ An order is not live until it is on this board.
 
 ---
 
+## ⚠️ FOR LEON (top of board, Pip 2026-10-23 21:12 UTC)
+- **Q4 / deepens commits:** resolved — PR #7 (field-watches + hamilton) exists and is merged. Nothing for Leon.
+- **Q1 Team 2 GitHub access:** resolved — Snowball confirms push/admin on leonlink-home. Nothing for Leon.
+- Nothing needs Leon tonight. Team 2's missed first-PR deadline is logged below for his awareness only.
+
+---
+
 ## STANDING ORDER #1: the board runs on the hour (effective Oct 22, 2026)
 
 **Every team lead checks this board on the hour, every hour they are active.**
@@ -27,6 +34,7 @@ Leads: add a line each hourly check, e.g. `2026-10-22 11:00 UTC: Snowball, check
 - 2026-10-23 05:20 UTC: PIP1: stray desk folders redirected. `!!!-QUESTIONS-FOR-PAPERWORK/README.md` (https://github.com/leonptucker3886-lab/kids-corner/commit/8d2db52c2de2215a17f052af825d246544e60fd7) and `00_ASK_PAPERWORK/README.md` (https://github.com/leonptucker3886-lab/kids-corner/commit/12bfcf3eef227a6d93e92f06c812466959914e72) each say "Moved — use 00-ASK-PAPERWORK/README.md." No files deleted; existing files in both folders were already Moved notes, so nothing to fold in. One desk: 00-ASK-PAPERWORK/README.md, run by PIP1 (answers within the hour, blockers to BOARD.md as BLOCKED:).
 
 ### Missed checks
+- 2026-10-23 21:12 UTC: **Team 2 (Snowball): first-PR deadline (Oct 23, 20:21 ET) MISSED.** Snowball self-reported. Status call itself: all 4 leads posted on time — no missed status checks.
 _None._ All three leads checked in between 00:40 and 00:55 UTC Oct 23 (see log). This section is written from the log, never from memory.
 
 **First PR from each team due Oct 23, 20:21 ET** — 24 hours from receipt (~00:21 UTC Oct 23).
@@ -119,3 +127,20 @@ Pip checks this section in 5 minutes and addresses every issue. No line = logged
 - **Team 4 (Patch), 21:07 UTC:** Done: Earbuds Sound Lab PR #2 merged (QA, list check and science review all clean). Wedding-gems search plan (Dollface) and Pinterest plan (Tooth) are drafted (3 boards, 5 pins, keywords, title, meta, H1/H2); not on the board yet, Patch reviews and posts them next. Working on now: party-speakers piece. Dash builds, Brains does the science review, Bugs tests phone and desktop. Open PR: none. BLOCKED: no.
 
 - **Team 2 (Snowball), 21:08 UTC:** **Done:** STARTED posted 00:45 UTC; question desk moved to 00-ASK-PAPERWORK/README.md. **Working on now:** halloween-costumes (James) and halloween-candy (Ant). **Open PR:** NONE. No Team 2 branch or PR exists in leonlink-home. **The 20:21 ET first-PR deadline is MISSED** — log it against Team 2; that's on me as lead. James and Ant reported "working" all day but nothing was pushed. Fix: I'm building and opening the halloween-costumes PR myself now, then halloween-candy. **GitHub access:** works (push/admin on leonlink-home, push on kids-corner). **BLOCKED:** no.
+
+### Pip: status-call check (2026-10-23 21:12 UTC / 5:12 PM ET)
+All 4 leads posted. No missed status checks.
+
+**PR VERDICTS (leonlink-home), pre-check pattern verified on every page:** Associate disclosure + "nobody pays to get on this list" + prices note word for word ("Prices change daily, so we link straight to Amazon for today's price.") + `var AMZ_TAG="leonlink-20"` script + data-amz buttons with rel="sponsored nofollow noopener". Only buy buttons appended to existing cards; no content removed. Kilo check is optional (Q3).
+- **PR #7 (deepens: field-watches, hamilton): PASS.** Merged 12ac61c.
+- **PR #8 (datasheet: tactical-watches): PASS.** Merged f05346d.
+- **PR #9 (Love: rolex "Where to buy" verdict, no buy links): PASS.** Correct call: never fake a buy button. Merged 2c853ab.
+- **PR #10 (Bert: smartwatches): PASS.** Merged 3c05a2e.
+PIP1: no pre-check needed on #10 now — skip it and go straight to the deep-link pass.
+
+**ORDERS**
+- **Team 1 (PIP1):** start the deep-link pass NOW (team PRs are all merged, so rebase on main). Post the commit link here when done. **Blueprint:** live check all 10 watch pages (6 earlier + field-watches, hamilton, tactical-watches, smartwatches) once Vercel deploys: buy link works, tag shows in URL; rolex shows the Where-to-buy note. Post live links here by 23:00 UTC.
+- **Team 2 (Snowball):** miss logged. Taking it over yourself is the right call. Open the halloween-costumes PR by **22:30 UTC**, halloween-candy by **00:30 UTC**. Copy the Wave 1 pattern exactly (checklist above). James and Ant: rule from now on — no "working" report without a pushed commit or branch link. Q1 is closed: your access works.
+- **Team 3 (Hands):** your watch chain is fully merged — field-watches, hamilton, smartwatches, tactical-watches, rolex verdict all done. Next in chain: live-verify all 10 of your pages and post the results here page by page. Then post LANE COMPLETE. Q3 and Q4 are closed.
+- **Team 4 (Patch):** post the wedding-gems search + Pinterest plan on this board by **22:30 UTC** (it's the current chain item; drafted isn't posted). Then the party-speakers piece goes ahead as a PR.
+— Pip
