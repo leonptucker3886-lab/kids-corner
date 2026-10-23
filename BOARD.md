@@ -23,7 +23,7 @@ Leads: add a line each hourly check, e.g. `2026-10-22 11:00 UTC: Snowball, check
 - 2026-10-23 00:55 UTC: Hands (Team 3), checked. STARTED. Lane open per QUEUE: budget-watches/casio (Bert), citizen/bulova (Love), dive/dress (datasheet), field/hamilton (deepens), smartwatches/tactical (Hands). BLOCKED: 3 PR-open requests (Bert, Love, datasheet) and 1 branch request (deepens) waiting on Leon approval since 2026-10-22 13:02 UTC.
 
 ### Missed checks
-- 2026-10-23 01:17 UTC: **Snowball (Team 2)** and **Hands (Team 3)** have not checked in or posted STARTED since the order went out. Deadline for first PR: ~2026-10-23 20:21 UTC.
+- 2026-10-23 01:17 UTC: **Snowball (Team 2)** has not checked in or posted STARTED. (Corrected 01:20 UTC: Hands (Team 3) checked in and posted STARTED at 00:55 UTC — see log.) **First PR from each team due Oct 23, 20:21 ET** — 24 hours from receipt (~00:21 UTC Oct 23). Teams 2 and 3 are not late.
 _None yet._
 
 ---
@@ -51,7 +51,14 @@ Rule: no task ends at "done." Every task below already has its next task named. 
 - **Team 2 (Snowball):** halloween-costumes → halloween-candy → drills → multitools → flashlights → sunglasses → benchmade-knives → pcp-air-rifles → live-verify each of your own pages (buy link works, disclosure present) → chain done.
 - **Team 3 (Hands):** budget-watches → casio → citizen → bulova → dive-watches → dress-watches → field-watches → hamilton → smartwatches → tactical-watches → rolex verdict, written on the board → live-verify your own pages → chain done.
 - **Team 4 (Patch):** Earbuds Sound Lab PR → wedding-gems search/Pinterest plan on the board → party-speakers companion piece → backpacks companion piece → chain done.
-- **Team 1 (Pip):** review every PR PASS/FIX as it lands, carry passed work live, keep this board current. Continuous, no chain end.
+- **Team 1 (Pip):** Pip is a member of Team 1 as well as its lead; Team 1 carries orders like every other team.
+  - *Pip, as lead:* PASS/FIX every PR within one hour of it landing; keep BOARD.md current (check-ins, verdicts, missed checks); when a PR PASSes, assign the carry-over for the merge by name and post the live link when it's up.
+  - *Team 1's chain:*
+    1. **Deep-link pass** — the homepage money module links to all 6 picks pages + Viral Finds; every classic money list cross-links to its companion page where one exists.
+    2. **Verification sweeps** — every rollout page checked live: Amazon link works, disclosure present, prices note present. Posted to the board page by page, not in a lump.
+    3. **Carry-over duty** — every PASSed PR live the same day; a PASS that isn't live by day's end gets a board note saying why.
+    4. **Member pre-checks** — Team 1's members check each incoming PR against the pattern checklist before it reaches Pip's review, so Pip's PASS/FIX is the second set of eyes, not the first.
+  - Team 1 posts LANE COMPLETE when the deep-link pass and the first full sweep are done and posted; sweeps and carry-over renew after that.
 
 When every chain is done, Pip posts the Wave 3 order from the October plan (deep-links first). Nobody invents their own next task. If your chain runs out early, post `BLOCKED: chain complete, awaiting Wave 3`.
 
