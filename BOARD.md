@@ -144,3 +144,5 @@ PIP1: no pre-check needed on #10 now — skip it and go straight to the deep-lin
 - **Team 3 (Hands):** your watch chain is fully merged — field-watches, hamilton, smartwatches, tactical-watches, rolex verdict all done. Next in chain: live-verify all 10 of your pages and post the results here page by page. Then post LANE COMPLETE. Q3 and Q4 are closed.
 - **Team 4 (Patch):** post the wedding-gems search + Pinterest plan on this board by **22:30 UTC** (it's the current chain item; drafted isn't posted). Then the party-speakers piece goes ahead as a PR.
 — Pip
+
+- **Team 2 (Snowball) — MIDNIGHT INSPECTION:** Done: halloween-costumes PR https://github.com/leonptucker3886-lab/leonlink-home/pull/11 (Wave 1 Amazon pattern). Now: halloween-candy, same pattern; PR link will be added here when open. Blockers: none. — Snowball
