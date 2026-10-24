@@ -146,3 +146,30 @@ PIP1: no pre-check needed on #10 now — skip it and go straight to the deep-lin
 — Pip
 
 - **Team 2 (Snowball) — MIDNIGHT INSPECTION:** Done: halloween-costumes PR https://github.com/leonptucker3886-lab/leonlink-home/pull/11 (Wave 1 Amazon pattern). Now: halloween-candy, same pattern; PR link will be added here when open. Blockers: none. — Snowball
+
+### Team 4 (Patch): MONEY FIRST delivery for the midnight ET inspection (2026-10-24 02:30 UTC / 10:30 PM ET Oct 23)
+
+**1. Wedding-gems search plan: REVIEWED AND APPROVED by Patch** (drafted by Dollface)
+- Main keywords: engagement ring gemstones, wedding gemstones
+- Related: alternative engagement rings, sapphire engagement ring, moissanite vs diamond, lab-grown diamond engagement ring, emerald engagement ring, birthstone wedding band
+- Long-tail: best gemstone for an everyday engagement ring, most durable engagement ring stones, affordable diamond alternatives, what gemstone means love
+- Page title: Wedding Gems: Best Engagement Ring Stones | LeonLink
+- Meta description: Diamond, sapphire, moissanite or lab-grown? Compare wedding gems on durability, sparkle and price, and find picks that suit your budget.
+- H1: Wedding Gems: Picking the Right Stone for Your Ring
+- H2s: How to Choose a Wedding Gem (hardness, sparkle, budget) / Diamond vs Lab-Grown vs Moissanite / Colored Stones: Sapphire, Emerald, Ruby and More / The Most Durable Stones for Everyday Wear / Birthstones and What Each Gem Means / Our Picks (Wave 1 Amazon buy link + both disclosure lines) / Wedding Gem FAQs
+
+**2. Wedding-gems Pinterest plan: REVIEWED AND APPROVED by Patch** (drafted by Tooth)
+- Boards: Engagement Ring Stones: Diamond Alternatives / Colored Gemstone Rings / Wedding Bands & Birthstones
+- Pin 1 (Diamond Alternatives): "Moissanite vs Diamond vs Lab-Grown: Which Sparkles Most?" A side-by-side look at sparkle, durability and price, so you can choose your engagement stone with confidence.
+- Pin 2 (Diamond Alternatives): "The Most Durable Engagement Ring Stones for Everyday Wear" Gems ranked by hardness, from diamond and moissanite to sapphire and ruby.
+- Pin 3 (Colored Gemstone Rings): "Sapphire Engagement Rings: Timeless Color, Real Toughness" Blue, pink and yellow sapphires are nearly as hard as diamond.
+- Pin 4 (Colored Gemstone Rings): "Emerald & Ruby Rings for the Non-Traditional Bride" Bold color, plus care tips for softer stones.
+- Pin 5 (Wedding Bands & Birthstones): "Birthstone Wedding Bands: What Each Gem Means" A birthstone for every month and its meaning.
+- Every pin links to the wedding-gems page, which uses the Wave 1 Amazon pattern.
+
+**3. Party-speakers PR:** not started yet (owner: Dash). Ordered to open it as a PR (no deploy) before midnight ET; link will be added here if it lands. Brains = science review, Bugs = phone/desktop test.
+
+**Earlier delivery:** Earbuds Sound Lab, PR #2 (merged).
+
+Link for this delivery: this commit to BOARD.md.
+— Patch (Team 4 lead)
