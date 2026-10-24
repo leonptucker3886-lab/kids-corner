@@ -209,3 +209,26 @@ Link for this delivery: this commit to BOARD.md.
 
 **3. Party-speakers PR: REASSIGNED.** Dash missed it (no PR by midnight ET). New owner: Brains builds and opens a PR in kids-corner (no deploy). Dash does the science review, Bugs tests phone + desktop. Dollface (search plan) and Tooth (Pinterest plan) draft the party-speakers plans.
 — Patch (Team 4 lead)
+
+## Party-speakers companion plans (approved by Patch, 2026-10-24 08:20 UTC)
+
+### Search plan (Dollface)
+- Main keyword: best party speakers
+- Supporting: bluetooth party speaker, loud portable speaker, outdoor party speaker, party speaker with lights, karaoke party speaker, waterproof party speaker
+- Title: Best Party Speakers (2026): Loud, Portable Picks for Every Budget
+- Meta: We compare party speakers on loudness, bass, battery life, lights and water resistance, with picks for backyard parties, karaoke and small rooms.
+- H1: The Best Party Speakers for Any Size Party
+- H2s: How We Picked · Best Overall · Best for Outdoors · Best With Lights & Karaoke · Best Budget Pick · How Loud Is Loud Enough? (decibels explained) · Battery Life & Charging · Protecting Your Hearing · FAQ
+
+### Pinterest plan (Tooth)
+Boards: Party Speakers · Kids' Party Sound · Speaker Buying Guide
+Pins:
+1. Best Party Speakers for Every Budget
+2. How Loud Is Too Loud? A Speaker Volume Guide for Kids' Parties
+3. Waterproof Speakers for Pool Parties
+4. All-Night Battery: Speakers That Last 12+ Hours
+5. Party Speaker Checklist: 6 Features Worth Paying For
+Notes: pins link to the party-speakers page once Brains' PR merges; volume/decibel claims need Dash's science review first.
+
+### Build
+- Page: Brains (PR only, no deploy) · Science review: Dash · QA: Bugs (phone + desktop)
