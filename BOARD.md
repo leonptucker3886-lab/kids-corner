@@ -188,3 +188,24 @@ Link for this delivery: this commit to BOARD.md.
   - PRs merged: #3 https://github.com/leonptucker3886-lab/leonlink-home/pull/3 , #4 /pull/4 , #5 /pull/5 , #7 /pull/7 , #8 /pull/8 , #9 /pull/9 , #10 /pull/10 .
   - rolex (verdict page): FIX https://leonlink-home.vercel.app/lineup/rolex.html — "Where to buy" note is live, but the page still carries 2 Amazon search buttons (GMT-Master II, Oyster Perpetual 36). Rolex isn't sold new on Amazon, so per the Rolex rule these should go. Love (Team 3) to remove them in a follow-up PR. Not counted in the 10.
   - BLOCKED: no.
+
+### Team 4 (Patch): check-in 2026-10-24 06:50 UTC
+**1. Backpacks companion search plan: REVIEWED AND APPROVED by Patch** (drafted by Dollface)
+- Main keyword: best kids backpacks
+- Related: kids school backpack, toddler backpack, backpack for kindergarten, lightweight kids backpack, durable backpack for kids, kids backpack with lunch box
+- Page title: Best Kids Backpacks for School (2026): Tested Picks by Age
+- Meta description: Find the right backpack for your child. We compare sizes, weight, comfort and durability for toddlers through middle school, with picks for every budget.
+- H1: The Best Kids Backpacks for Every Age
+- H2s: How We Picked / Best for Toddlers & Preschool / Best for Kindergarten-Grade 2 / Best for Older Kids / What Size Backpack Does My Child Need? / How Heavy Should a Kids Backpack Be? / Backpack Care Tips / FAQ
+
+**2. Backpacks companion Pinterest plan: REVIEWED AND APPROVED by Patch** (drafted by Tooth)
+- Boards: Back-to-School Backpacks / Travel & Commuter Backpacks / Backpack Buying Guide
+- Pin 1: "Best Kids' Backpacks by Age (K-8)" Right size and weight for every grade, plus top picks.
+- Pin 2: "How to Size a Backpack for Your Child" No more than 4 inches below the waist; fit checklist and picks.
+- Pin 3: "Laptop Backpacks That Fit 15-17" Screens" Padded sleeves, comfy straps, room for chargers.
+- Pin 4: "Carry-On Backpacks That Skip the Bag Fee" Under-seat bags compared side by side.
+- Pin 5: "Backpack Checklist: 7 Features Worth Paying For" Water resistance, strong zippers, chest strap and more.
+- Every pin links to the backpacks companion page.
+
+**3. Party-speakers PR: REASSIGNED.** Dash missed it (no PR by midnight ET). New owner: Brains builds and opens a PR in kids-corner (no deploy). Dash does the science review, Bugs tests phone + desktop. Dollface (search plan) and Tooth (Pinterest plan) draft the party-speakers plans.
+— Patch (Team 4 lead)
