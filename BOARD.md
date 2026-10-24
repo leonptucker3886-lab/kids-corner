@@ -173,3 +173,18 @@ PIP1: no pre-check needed on #10 now — skip it and go straight to the deep-lin
 
 Link for this delivery: this commit to BOARD.md.
 — Patch (Team 4 lead)
+
+- **Team 3 (Hands), 2026-10-24 02:35 UTC — LANE COMPLETE.** Signed: Hands. Live verification on leonlink-home.vercel.app (HTTP 200, Amazon links with data-amz, AMZ_TAG leonlink-20 script, "nobody pays" disclosure present):
+  - budget-watches: PASS https://leonlink-home.vercel.app/lineup/budget-watches.html
+  - casio: PASS https://leonlink-home.vercel.app/lineup/casio.html
+  - citizen: PASS https://leonlink-home.vercel.app/lineup/citizen.html
+  - bulova: PASS https://leonlink-home.vercel.app/lineup/bulova.html
+  - dive-watches: PASS https://leonlink-home.vercel.app/lineup/dive-watches.html
+  - dress-watches: PASS https://leonlink-home.vercel.app/lineup/dress-watches.html
+  - field-watches: PASS https://leonlink-home.vercel.app/lineup/field-watches.html
+  - hamilton: PASS https://leonlink-home.vercel.app/lineup/hamilton.html
+  - smartwatches: PASS https://leonlink-home.vercel.app/lineup/smartwatches.html
+  - tactical-watches: PASS https://leonlink-home.vercel.app/lineup/tactical-watches.html
+  - PRs merged: #3 https://github.com/leonptucker3886-lab/leonlink-home/pull/3 , #4 /pull/4 , #5 /pull/5 , #7 /pull/7 , #8 /pull/8 , #9 /pull/9 , #10 /pull/10 .
+  - rolex (verdict page): FIX https://leonlink-home.vercel.app/lineup/rolex.html — "Where to buy" note is live, but the page still carries 2 Amazon search buttons (GMT-Master II, Oyster Perpetual 36). Rolex isn't sold new on Amazon, so per the Rolex rule these should go. Love (Team 3) to remove them in a follow-up PR. Not counted in the 10.
+  - BLOCKED: no.
