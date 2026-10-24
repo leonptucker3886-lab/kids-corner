@@ -232,3 +232,22 @@ Notes: pins link to the party-speakers page once Brains' PR merges; volume/decib
 
 ### Build
 - Page: Brains (PR only, no deploy) · Science review: Dash · QA: Bugs (phone + desktop)
+
+## Party-speakers pin text (Tooth + Dollface) — approved by Patch 2026-10-24 10:20 UTC
+Status: approved copy. Pins 2 and 4 pending Dash's science review. Pins link to the party-speakers page once Brains' PR is merged.
+
+1. **Best Party Speakers for Every Budget**
+   Loud, portable Bluetooth party speakers that fill a room or backyard. Our picks for every budget, from small rooms to big outdoor parties.
+   Alt: Three portable Bluetooth party speakers in different sizes on a backyard table.
+2. **How Loud Is Too Loud? Party Speaker Volume Guide** (science review pending)
+   Easy decibel tips to keep kids' ears safe at birthday parties. Plus party speakers that let you cap the volume.
+   Alt: Party speaker next to a simple decibel scale running from quiet to too loud.
+3. **Waterproof Party Speakers for Pool Days**
+   IPX7-rated waterproof party speakers that can handle splashes and rain. They're built to last all afternoon by the pool.
+   Alt: Waterproof party speaker floating in a pool beside a beach ball.
+4. **Loud Portable Speakers With 12+ Hour Battery Life** (science review pending)
+   Loud portable speakers that won't die halfway through the party. We compare battery life and how long they take to charge.
+   Alt: Portable speaker with a full battery icon at an evening outdoor party.
+5. **Party Speaker Checklist: 6 Features Worth Paying For**
+   Battery, waterproofing, lights, karaoke mics and pairing two speakers. What actually matters in a party speaker with lights.
+   Alt: Checklist graphic beside a party speaker with colorful LED lights.
